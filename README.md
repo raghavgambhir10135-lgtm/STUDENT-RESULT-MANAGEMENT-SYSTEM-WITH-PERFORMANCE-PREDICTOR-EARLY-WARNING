@@ -1,0 +1,2 @@
+# STUDENT-RESULT-MANAGEMENT-SYSTEM-WITH-PERFORMANCE-PREDICTOR-EARLY-WARNING
+The unique contribution of this project is a statistical Performance Predictor that fits an ordinary-least-squares regression line between internal and external marks of every subject, forecasts the external marks, total, grade and SGPA of a student whose external exams are still pending, and raises LOW / MEDIUM / HIGH risk alerts.
